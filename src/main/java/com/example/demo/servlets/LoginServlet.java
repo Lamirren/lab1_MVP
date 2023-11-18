@@ -10,6 +10,7 @@ import jakarta.servlet.ServletException;
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
+//com for pull
 @WebServlet(name = "loginServlet" /*, value = "/hello"*/)
 public class LoginServlet extends HttpServlet {
     @Override
